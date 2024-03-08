@@ -1,0 +1,10 @@
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Rossi', 'Mario', 'RSSMRA80A01H501Z', 'RM', 'Roma', 'mario.rossi@email.it', '0687654321', '3201234567');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Bianchi', 'Luca', 'BNCLCA82B12F205W', 'MI', 'Milano', 'luca.bianchi@email.it', '0265432190', '3207654321');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Verdi', 'Giulia', 'VRDGLI84C14L219E', 'TO', 'Torino', 'giulia.verdi@email.it', '0119876543', '3314567890');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Neri', 'Sofia', 'NRSFIA85D16G999L', 'NA', 'Napoli', 'sofia.neri@email.it', '0811234567', '3319876543');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Gialli', 'Anna', 'GLLANN87E18H123K', 'VE', 'Venezia', 'anna.gialli@email.it', '0419876500', '3397654321');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Viola', 'Marco', 'VLMRCO88F23A123J', 'FI', 'Firenze', 'marco.viola@email.it', '0557654321', '3409876543');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Azzurri', 'Francesca', 'AZZFRN90G25B456H', 'BO', 'Bologna', 'francesca.azzurri@email.it', '0512345678', '3371234567');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Marrone', 'Elena', 'MRRELN91H28Z789X', 'PD', 'Padova', 'elena.marrone@email.it', '0498765432', '3389876543');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Rosa', 'Federico', 'RSOFRC92I30C123V', 'CT', 'Catania', 'federico.rosa@email.it', '0957654321', '3401234567');
+INSERT INTO Cliente (Cognome, Nome, CF, Provincia, Citta, Email, Telefono, Cellulare) VALUES ('Arancioni', 'Beatrice', 'RNCBTR93L40D567P', 'PA', 'Palermo', 'beatrice.arancioni@email.it', '0911234567', '3457654321');

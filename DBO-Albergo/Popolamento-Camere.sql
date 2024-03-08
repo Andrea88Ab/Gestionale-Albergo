@@ -1,0 +1,10 @@
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Standard', 0, 0, 100.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Singola Basic', 1, 0, 80.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Doppia Vista Giardino', 0, 0, 150.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Singola Deluxe', 1, 0, 120.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Suite Presidenziale', 0, 0, 200.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Singola Economy', 1, 0, 90.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Matrimoniale', 0, 0, 160.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Singola Superior', 1, 0, 110.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Executive con Terrazza', 0, 0, 210.00);
+INSERT INTO Camera (Descrizione, Singola, Occupata, Prezzo) VALUES ('Camera Singola Vista Mare', 1, 0, 95.00);
